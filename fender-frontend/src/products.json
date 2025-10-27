@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Monster Hunter Rathalos Telecaster®",
+    "price": "$1,299",
+    "description": "Rosewood Fingerboard, Rathalos Red",
+    "category": "Electric Guitars",
+    "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800&h=800&fit=crop",
+    "badge": "Back in Stock",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": 2,
+    "name": "Limited Edition American Professional Classic Stratocaster®",
+    "price": "$1,599",
+    "description": "Metallic Light Blue finish",
+    "category": "Electric Guitars",
+    "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800&h=800&fit=crop",
+    "badge": "Web Exclusive",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": 3,
+    "name": "American Professional Classic Telecaster®",
+    "price": "$1,399",
+    "description": "Classic Sunburst finish",
+    "category": "Electric Guitars",
+    "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800&h=800&fit=crop",
+    "badge": "New",
+    "stock": "6 Colors"
+  },
+  {
+    "id": 4,
+    "name": "American Professional Classic Stratocaster®",
+    "price": "$1,499",
+    "description": "Charcoal finish with red pickguard",
+    "category": "Electric Guitars",
+    "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800&h=800&fit=crop",
+    "badge": "New",
+    "stock": "6 Colors"
+  },
+  {
+    "id": 5,
+    "name": "Player Plus Stratocaster®",
+    "price": "$999",
+    "description": "Misty Pine finish",
+    "category": "Electric Guitars",
+    "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800&h=800&fit=crop",
+    "badge": "Web Exclusive",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": 6,
+    "name": "Player Telecaster®",
+    "price": "$849",
+    "description": "Polar White finish",
+    "category": "Electric Guitars",
+    "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800&h=800&fit=crop",
+    "badge": "New",
+    "stock": "6 Colors"
+  },
+  {
+    "id": 7,
+    "name": "Performer Stratocaster®",
+    "price": "$1,199",
+    "description": "Sonic Blue finish",
+    "category": "Electric Guitars",
+    "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800&h=800&fit=crop",
+    "badge": "New",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": 8,
+    "name": "Vintera II 60s Stratocaster®",
+    "price": "$1,349",
+    "description": "Vintage Surf Green finish",
+    "category": "Electric Guitars",
+    "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800&h=800&fit=crop",
+    "badge": "New",
+    "stock": "4 Colors"
+  },
+  {
+    "id": 9,
+    "name": "American Professional Precision Bass®",
+    "price": "$1,549",
+    "description": "3-Color Sunburst finish",
+    "category": "Basses",
+    "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800&h=800&fit=crop",
+    "badge": "New",
+    "stock": "5 Colors"
+  },
+  {
+    "id": 10,
+    "name": "American Professional Jazz Bass®",
+    "price": "$1,549",
+    "description": "Natural finish, maple fingerboard",
+    "category": "Basses",
+    "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800&h=800&fit=crop",
+    "badge": "Back in Stock",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": 11,
+    "name": "Player Precision Bass®",
+    "price": "$749",
+    "description": "Pau Ferro Fingerboard",
+    "category": "Basses",
+    "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800&h=800&fit=crop",
+    "badge": "New",
+    "stock": "6 Colors"
+  },
+  {
+    "id": 12,
+    "name": "Player Jazz Bass®",
+    "price": "$749",
+    "description": "Buttercream finish",
+    "category": "Basses",
+    "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800&h=800&fit=crop",
+    "badge": "New",
+    "stock": "Available Now"
+  },
+  {
+    "id": 13,
+    "name": "Blues Junior IV",
+    "price": "$699",
+    "description": "15W 1x12 Tube Combo Amp",
+    "category": "Amps & Effects",
+    "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800&h=800&fit=crop",
+    "badge": "Popular",
+    "stock": "6 Colors"
+  },
+  {
+    "id": 14,
+    "name": "Champion 40",
+    "price": "$249",
+    "description": "40W 1x12 Solid-State Combo",
+    "category": "Amps & Effects",
+    "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800&h=800&fit=crop",
+    "badge": "New",
+    "stock": "Available Now"
+  },
+  {
+    "id": 15,
+    "name": "Twin Reverb '65",
+    "price": "$1,249",
+    "description": "85W 2x12 Tube Combo Amp",
+    "category": "Amps & Effects",
+    "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800&h=800&fit=crop",
+    "badge": "Classic",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": 16,
+    "name": "Princeton Reverb '65",
+    "price": "$1,299",
+    "description": "12W 1x10 Tube Combo Amp",
+    "category": "Amps & Effects",
+    "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800&h=800&fit=crop",
+    "badge": "Premium",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": 17,
+    "name": "Marine Layer Reverb",
+    "price": "$169",
+    "description": "Studio-Quality Stereo Reverb Pedal",
+    "category": "Pedals",
+    "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800&h=800&fit=crop",
+    "badge": "New",
+    "stock": "Available Now"
+  },
+  {
+    "id": 18,
+    "name": "Pugilist Distortion",
+    "price": "$149",
+    "description": "2-Channel Distortion Pedal",
+    "category": "Pedals",
+    "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800&h=800&fit=crop",
+    "badge": "New",
+    "stock": "6 Colors"
+  },
+  {
+    "id": 19,
+    "name": "The Bends Compressor",
+    "price": "$139",
+    "description": "Optical Compressor Pedal",
+    "category": "Pedals",
+    "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800&h=800&fit=crop",
+    "badge": "Premium",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": 20,
+    "name": "Santa Ana Overdrive",
+    "price": "$179",
+    "description": "Tube-Inspired Overdrive Pedal",
+    "category": "Pedals",
+    "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800&h=800&fit=crop",
+    "badge": "Popular",
+    "stock": "Available Now"
+  },
+  {
+    "id": 21,
+    "name": "Engager Boost",
+    "price": "$149",
+    "description": "Transparent Boost Pedal",
+    "category": "Pedals",
+    "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800&h=800&fit=crop",
+    "badge": "New",
+    "stock": "6 Colors"
+  },
+  {
+    "id": 22,
+    "name": "Reflecting Pool Delay",
+    "price": "$179",
+    "description": "Stereo Delay Pedal with Modulation",
+    "category": "Pedals",
+    "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800&h=800&fit=crop",
+    "badge": "Web Exclusive",
+    "stock": "Limited Stock"
+  }
+]
