@@ -10,10 +10,9 @@ import asyncio
 
 app = FastAPI()
 
-# Add CORS middleware to allow frontend to call the API
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Allow all origins (for development)
+    allow_origins=["*"],  
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -26,19 +25,18 @@ class ChatMessage(BaseModel):
 class ChatRequest(BaseModel):
     messages: List[ChatMessage]
 
-# Ollama API URL
 OLLAMA_API_URL = os.getenv("OLLAMA_API_URL", "http://localhost:11434")
 
 # Load product catalog
 def load_products():
     """Load the product catalog from JSON file"""
     try:
-        # Try current directory first (for local dev)
+
         if os.path.exists("products.json"):
             with open("products.json", "r") as f:
                 products = json.load(f)
             return json.dumps(products, indent=2)
-        # Try in the same directory as this file (for Docker)
+
         elif os.path.exists(os.path.join(os.path.dirname(__file__), "products.json")):
             with open(os.path.join(os.path.dirname(__file__), "products.json"), "r") as f:
                 products = json.load(f)
@@ -83,10 +81,9 @@ async def chat(request: ChatRequest):
     Send messages to Ollama and get AI responses with product context (streaming).
     """
     try:
-        # Get system prompt with product catalog
         system_prompt = get_system_prompt()
         
-        # Prepare messages with system prompt at the beginning
+
         messages = [
             {"role": "system", "content": system_prompt},
             *[
@@ -139,12 +136,10 @@ def get_products():
     Get the product catalog.
     """
     try:
-        # Try current directory first (for local dev)
         if os.path.exists("products.json"):
             with open("products.json", "r") as f:
                 products = json.load(f)
             return products
-        # Try in the same directory as this file (for Docker)
         elif os.path.exists(os.path.join(os.path.dirname(__file__), "products.json")):
             with open(os.path.join(os.path.dirname(__file__), "products.json"), "r") as f:
                 products = json.load(f)
